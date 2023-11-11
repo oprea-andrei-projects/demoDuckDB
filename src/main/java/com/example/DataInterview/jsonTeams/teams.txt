@@ -1,0 +1,18 @@
+Team ID: 511, Name: Toulouse FC
+Team ID: 512, Name: Stade Brestois 29
+Team ID: 516, Name: Olympique de Marseille
+Team ID: 518, Name: Montpellier HSC
+Team ID: 521, Name: Lille OSC
+Team ID: 522, Name: OGC Nice
+Team ID: 523, Name: Olympique Lyonnais
+Team ID: 524, Name: Paris Saint-Germain FC
+Team ID: 525, Name: FC Lorient
+Team ID: 529, Name: Stade Rennais FC 1901
+Team ID: 533, Name: Le Havre AC
+Team ID: 541, Name: Clermont Foot 63
+Team ID: 543, Name: FC Nantes
+Team ID: 545, Name: FC Metz
+Team ID: 546, Name: Racing Club de Lens
+Team ID: 547, Name: Stade de Reims
+Team ID: 548, Name: AS Monaco FC
+Team ID: 576, Name: RC Strasbourg Alsace

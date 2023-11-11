@@ -1,0 +1,13 @@
+Competition ID: 2013	Name: Campeonato Brasileiro S rie A
+Competition ID: 2016	Name: Championship
+Competition ID: 2021	Name: Premier League
+Competition ID: 2001	Name: UEFA Champions League
+Competition ID: 2018	Name: European Championship
+Competition ID: 2015	Name: Ligue 1
+Competition ID: 2002	Name: Bundesliga
+Competition ID: 2019	Name: Serie A
+Competition ID: 2003	Name: Eredivisie
+Competition ID: 2017	Name: Primeira Liga
+Competition ID: 2152	Name: Copa Libertadores
+Competition ID: 2014	Name: Primera Division
+Competition ID: 2000	Name: FIFA World Cup
